@@ -1,4 +1,4 @@
-### Full stack Social web application by Iyad Altoubah to demonstrate  my coding  skills
+###  web application by Iyad Altoubah to demonstrate  my coding  skills
 ### Using the following technologies:
 #### Java 11
 #### Spring Boot
